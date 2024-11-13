@@ -1,6 +1,6 @@
 # KGDA
 ## KGDA: A Knowledge Graph-based Decomposition Approach for Cellular Traffic Prediction
-### IEEE TIST accept with minor revision
+### just accepted by IEEE TIST 
 This repository is the official PyTorch implementation for the paper: KGDA: A Knowledge Graph-based Decomposition Approach for Cellular Traffic Prediction
 
 ## Framework
